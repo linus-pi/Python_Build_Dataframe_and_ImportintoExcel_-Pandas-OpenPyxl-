@@ -11,4 +11,7 @@ pandas
 
 openpyxl
 
-requirements.txt is in folder
+-------
+
+
+To note: requirements.txt is in folder
