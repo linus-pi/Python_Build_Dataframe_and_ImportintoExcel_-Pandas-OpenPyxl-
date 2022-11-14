@@ -2,7 +2,7 @@ import pandas as pd
 import openpyxl
 from openpyxl.utils.dataframe import dataframe_to_rows
 
-def importcsv(fname,fworksheet_name):
+def importcsv(filepath1,fworksheet_name):
     #READ CSV
     data = pd.read_csv(fname)
 
